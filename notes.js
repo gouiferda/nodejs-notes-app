@@ -20,7 +20,7 @@ const addNote = (title, body) => {
     saveNotes(notes)
     console.log("New note added")
   } else {
-    console.log("New title taken!")
+    console.log("New title already taken!")
   }
 }
 
