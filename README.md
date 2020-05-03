@@ -1,4 +1,4 @@
-# notes-app
+# nodejs-notes-app
 
 Simple notes app with node js CLI, notes are saved in a json file
 
