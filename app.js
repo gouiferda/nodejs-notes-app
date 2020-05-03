@@ -66,6 +66,7 @@ yargs.parse()
 
 
 /*
+//Old commands:
 
 const getNotes = require('./notes.js')
 
